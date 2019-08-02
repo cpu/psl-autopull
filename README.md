@@ -1,6 +1,6 @@
-# zlint autopull
+# PSL autopull
 
-[![Build Status](https://travis-ci.com/cpu/zlint-autopull.svg?branch=master)](https://travis-ci.com/cpu/zlint-autopull)
+[![Build Status](https://travis-ci.com/cpu/psl-autopull.svg?branch=master)](https://travis-ci.com/cpu/psl-autopull)
 
 Bash script that auto-creates Pull Requests for
 [psl](https://github.com/publicsuffix/list)'s gTLD data.
